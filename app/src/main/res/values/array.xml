@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="main_tab">
+        <item>首页</item>
+        <item>设置</item>
+    </array>
+</resources>
